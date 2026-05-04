@@ -8,9 +8,9 @@
 
 | Field | Details |
 |-------|---------|
-| **Student Name** | [Your Full Name] |
-| **Student / ID Number** | [Your Student ID] |
-| **Date** | [DD Month YYYY] |
+| **Student Name** | [ALETTA MAPETLA] |
+| **Student / ID Number** | [0201110472085] |
+| **Date** | [04 MAY 2026] |
 | **Assessor** | [Assessor's Name] |
 | **Assessor Date** | [DD Month YYYY] |
 | **Assessor Signature** | [To be completed by assessor] |
